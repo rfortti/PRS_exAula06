@@ -15,7 +15,7 @@ import java.util.Scanner;
 public class ControleMesaBar 
 {
     private int nmesa;
-    private String produto;
+    
     private double valor;
     private double total;
     private int pessoas;

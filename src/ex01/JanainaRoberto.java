@@ -55,5 +55,7 @@ public class JanainaRoberto
        
        lampada.Apagar();
        lampada.exibirStatus();
+       
+       lampada.Acender();
     }
 }

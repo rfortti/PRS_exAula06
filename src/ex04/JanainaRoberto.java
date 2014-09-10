@@ -16,7 +16,7 @@ public class JanainaRoberto
 {
     public static void main(String[] args) 
     {
-       Equacao2Grau equacao = new Equacao2Grau(0,-2,-3);
+       Equacao2Grau equacao = new Equacao2Grau(2,-2,-3);
        equacao.calcularDelta();
        equacao.calcularX();
     }
